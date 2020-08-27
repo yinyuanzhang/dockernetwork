@@ -1,0 +1,8 @@
+source,target
+andrewklau/couchdb,couchdb
+arsnova/arsnova-couchdb,couchdb
+bnbwebexpertise/couchdb-cors,couchdb
+dominicbarnes/couchdb,couchdb
+knappmeier/skimdb-replicator,couchdb
+mcreations/couchdb,couchdb
+trivago/couchdb-cors,couchdb

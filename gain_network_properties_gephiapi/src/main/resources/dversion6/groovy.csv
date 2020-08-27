@@ -1,0 +1,8 @@
+source,target
+burnmydread/estoinflux,groovy
+edupo/codenarc,groovy
+gatherf/allure2-box,groovy
+neveroddoreven/alpine-groovy,groovy
+rigoford/alpine-groovy-newrelic,groovy
+sprocket/dynamodb-local,groovy
+yopapp/docker-groovy,groovy

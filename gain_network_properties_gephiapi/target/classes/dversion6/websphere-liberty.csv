@@ -1,0 +1,9 @@
+source,target
+cuball0/liberty-server,websphere-liberty
+filipecorrea/websphere-liberty,websphere-liberty
+hi5san/websphere-liberty,websphere-liberty
+jconallen/liberty4all,websphere-liberty
+mkboudreau/liberty-confd,websphere-liberty
+tcseamdocker/libertyserver,websphere-liberty
+wasdev/ferret,websphere-liberty
+tcseamdocker/libertyapp,tcseamdocker/libertyserver

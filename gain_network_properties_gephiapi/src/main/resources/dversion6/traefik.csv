@@ -1,0 +1,17 @@
+source,target
+bluerose/docker-traefik,traefik
+bootswithdefer/traefik-vault,traefik
+chaosdorf/ingress,traefik
+dealdev/traefik,traefik
+devicetools/http-loadbalancer,traefik
+dhecking/traefik,traefik
+forthscale/ecs-traefik,traefik
+hdebeuf/igludockerprojecttraefik,traefik
+island0/lb,traefik
+laslabs/runbot-traefik,traefik
+moeyservices/traefik,traefik
+picoded/traefik-rancher-simple,traefik
+salalemdockerhub/traefik-proxy,traefik
+softonic/traefik,traefik
+weaselscience/traefik-docker-acme,traefik
+weaselscience/traefik-swarm-acme,traefik

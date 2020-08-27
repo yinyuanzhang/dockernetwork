@@ -1,0 +1,12 @@
+source,target
+abtris/devfest-2013,base
+arcus/etherpad,base
+arcus/redis,base
+cjlarose/thrift,base
+cuemby/docker-couchbase,couchbase
+deadcheat/couchbase,couchbase
+dtan4/multiple-dockerfile-sample,base
+dz0ny/yodl,base
+kindertap/couchbase_to_s3_docker,couchbase
+mastilver/couchbase,couchbase
+tcaxias/couchbase,couchbase

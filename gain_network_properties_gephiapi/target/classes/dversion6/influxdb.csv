@@ -1,0 +1,17 @@
+source,target
+azuracast/azuracast_influxdb,influxdb
+bherard/energyrecorder-api,influxdb
+cabsolutely/influxdb,influxdb
+clevertodayinc/influxdb,influxdb
+efrecon/influx-backup,influxdb
+freenas/influxdb,influxdb
+inspectit/influxdb,influxdb
+jacobtomlinson/influxdb-to-s3,influxdb
+jonasprogrammer/influxdb,influxdb
+kaiterra/heapster-influxdb,influxdb
+matisq/influxdb,influxdb
+pablotech/hedge-db-influx,influxdb
+skalera/influxdb,influxdb
+stefanwalther/speedy-influxdb,influxdb
+stockdb/stockdb,influxdb
+ustclug/influxdb,influxdb

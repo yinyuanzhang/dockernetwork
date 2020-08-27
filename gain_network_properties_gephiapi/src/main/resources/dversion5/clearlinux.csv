@@ -1,0 +1,14 @@
+,imagefrom,imageto1,imageto2
+0,clearcontainers/clearlinux,clearlinux,1
+1,clearlinux/ciao-common,clearlinux,1
+2,clearlinux/ciao-deploy,clearlinux,1
+3,clearlinux/ciao-webui,clearlinux,1
+4,clearlinux/clr-sdk,clearlinux,1
+5,clearlinux/machine-learning,clearlinux,1
+6,clearlinux/mariadb,clearlinux,1
+7,clearlinux/mixer-ci,clearlinux,1
+8,red8012/optimizedconda,clearlinux,1
+9,clearlinux/ciao-controller,clearlinux/ciao-common,1
+10,clearlinux/ciao-launcher,clearlinux/ciao-common,1
+11,clearlinux/ciao-scheduler,clearlinux/ciao-common,1
+12,clearlinux/keystone,clearlinux/mariadb,1

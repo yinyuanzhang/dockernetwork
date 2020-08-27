@@ -1,0 +1,4 @@
+,imagefrom,imageto1,imageto2
+0,dcurylo/pengines,swipl,1
+1,logtalk/logtalk3-swi-nightly,swipl,1
+2,pastorious/pengines,swipl,1

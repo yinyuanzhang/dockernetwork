@@ -1,0 +1,9 @@
+source,target
+codesmithtech/memcached,memcached
+eeacms/memcached,memcached
+johnhwhite/memcached-healthcheck,memcached
+lebrain/leserve-memcached,memcached
+moyu1781987/dockerized-ebe-memcached,memcached
+nouchka/memcached,memcached
+parkshinhye/memcached,memcached
+yarec/memcached,memcached

@@ -1,0 +1,9 @@
+,imagefrom,imageto1,imageto2
+0,cuball0/liberty-server,websphere-liberty,1
+1,filipecorrea/websphere-liberty,websphere-liberty,1
+2,hi5san/websphere-liberty,websphere-liberty,1
+3,jconallen/liberty4all,websphere-liberty,1
+4,mkboudreau/liberty-confd,websphere-liberty,1
+5,tcseamdocker/libertyserver,websphere-liberty,1
+6,wasdev/ferret,websphere-liberty,1
+7,tcseamdocker/libertyapp,tcseamdocker/libertyserver,1

@@ -1,0 +1,3 @@
+,imagefrom,imageto1,imageto2
+0,ciberado/mosquitto-docker,eclipse-mosquitto,1
+1,efrecon/mosquitto,eclipse-mosquitto,1

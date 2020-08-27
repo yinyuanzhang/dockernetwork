@@ -1,0 +1,17 @@
+,imagefrom,imageto1,imageto2
+0,bluerose/docker-traefik,traefik,1
+1,bootswithdefer/traefik-vault,traefik,1
+2,chaosdorf/ingress,traefik,1
+3,dealdev/traefik,traefik,1
+4,devicetools/http-loadbalancer,traefik,1
+5,dhecking/traefik,traefik,1
+6,forthscale/ecs-traefik,traefik,1
+7,hdebeuf/igludockerprojecttraefik,traefik,1
+8,island0/lb,traefik,1
+9,laslabs/runbot-traefik,traefik,1
+10,moeyservices/traefik,traefik,1
+11,picoded/traefik-rancher-simple,traefik,1
+12,salalemdockerhub/traefik-proxy,traefik,1
+13,softonic/traefik,traefik,1
+14,weaselscience/traefik-docker-acme,traefik,1
+15,weaselscience/traefik-swarm-acme,traefik,1

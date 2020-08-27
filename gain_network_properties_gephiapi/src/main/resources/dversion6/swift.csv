@@ -1,0 +1,14 @@
+source,target
+emilletfr/domo-server-vapor-docker,swift
+franklinsch/flint,swift
+htwdd/emeal-server,swift
+izzynavedo/vapor,swift
+muukii0803/docker-protobuf-swift,swift
+pixelspark/catena,swift
+qualified/swift,swift
+sagadash/swift-server,swift
+tedneward/swift,swift
+tommylau/perfect,swift
+yusukeito/swift-basic,swift
+izzynavedo/vapor-postgres,izzynavedo/vapor
+yusukeito/tsssm-crawler,yusukeito/swift-basic

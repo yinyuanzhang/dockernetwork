@@ -1,0 +1,14 @@
+source,target
+clearcontainers/clearlinux,clearlinux
+clearlinux/ciao-common,clearlinux
+clearlinux/ciao-deploy,clearlinux
+clearlinux/ciao-webui,clearlinux
+clearlinux/clr-sdk,clearlinux
+clearlinux/machine-learning,clearlinux
+clearlinux/mariadb,clearlinux
+clearlinux/mixer-ci,clearlinux
+red8012/optimizedconda,clearlinux
+clearlinux/ciao-controller,clearlinux/ciao-common
+clearlinux/ciao-launcher,clearlinux/ciao-common
+clearlinux/ciao-scheduler,clearlinux/ciao-common
+clearlinux/keystone,clearlinux/mariadb

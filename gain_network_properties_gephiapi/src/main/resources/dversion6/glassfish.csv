@@ -1,0 +1,11 @@
+source,target
+ccorjuelav/usersms_back,glassfish
+dboss/glassfish,glassfish
+dirichlet/glassfish,glassfish
+flores314/docker-glassfish,glassfish
+gyz0072004/glassfish-with-maven,glassfish
+harbur/glassfish-flyway,glassfish
+inspectit/glassfish,glassfish
+jaquinonesg/jarkko_authentication,glassfish
+lars1974/glassfish-sqlserver-vaadin,glassfish
+macuestapa/sessions-ms,glassfish
